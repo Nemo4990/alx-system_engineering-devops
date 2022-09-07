@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.jj" -type f -delete
+find. -name "*.jj" -type f -delete
